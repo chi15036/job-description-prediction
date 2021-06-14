@@ -18,5 +18,5 @@
  ```
 4. 執行程式
    ```sh
-   $ jupyter notebook home_price_prediction.ipynb 
+   $ jupyter notebook job-description-prediction.ipynb 
    ```
